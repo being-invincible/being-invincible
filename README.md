@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @being-invincible
-- 👀 I’m interested in Robotics, AI and IA.
-- 🌱 I’m currently learning Front-end, TensorFlow, Deeplearning, etc.
-- 💞️ I’m looking to collaborate on fasicinated Robotics/Data Science project.
-- 📫 Reach me here - LinkedIn - https://www.linkedin.com/in/harish-chandran-7aa708184/
+<**being-invincible**>
+
+I’m a software developer who wants to transition into Data Science.
+I’m passionate about AI, Data Science, Data Analytics, and Machine Learning.
+
+I’m currently learning Front-end, TensorFlow, Deep learning, etc.
+I’m looking to collaborate on a fascinating Data Science project.
+
+Reach me here - LinkedIn - https://www.linkedin.com/in/harish-chandran-7aa708184/
+Find my blogs - Medium - https://medium.com/@the_psy_guy
 
 <!---
 being-invincible/being-invincible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
