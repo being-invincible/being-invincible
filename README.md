@@ -2,8 +2,9 @@
 
 ```
 >>about
+
+#I’m a software developer who wants to transition into Data Science. I’m passionate about AI, Data Science, Data Analytics, and Machine Learning. I’m currently learning Front-end (React JS & Next JS), TensorFlow, Deep learning, etc.
 ```
->I’m a software developer who wants to transition into Data Science. I’m passionate about AI, Data Science, Data Analytics, and Machine Learning. I’m currently learning Front-end (React JS & Next JS), TensorFlow, Deep learning, etc.
 
 ```
 >>contact
