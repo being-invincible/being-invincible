@@ -2,6 +2,7 @@
 
 
 **>>about**
+
 I do AI for a living. I’m passionate about AI, Data Science, Data Analytics, and Machine Learning. I’m currently learning TensorFlow, Deep learning, etc.
 
 
