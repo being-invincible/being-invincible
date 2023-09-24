@@ -1,11 +1,11 @@
 **being-invincible**
 
 
->>about
+**>>about**
 I do AI for a living. I’m passionate about AI, Data Science, Data Analytics, and Machine Learning. I’m currently learning TensorFlow, Deep learning, etc.
 
 
->>contact
+**>>contact**
 
 Reach me here - LinkedIn - https://www.linkedin.com/in/harish-chandran-7aa708184/
 
