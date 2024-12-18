@@ -1,12 +1,15 @@
 **Harish Chandran** AKA **being-invincible**
 
 
-**>>about**
+**About**
 
-I do AI for a living. I’m passionate about AI, Data Science, Data Analytics, and Machine Learning. I’m currently learning TensorFlow, Deep learning, etc.
+I am an attention-to-detail young man pursuing MSc in Data Science with a passion for innovative solutions to complex data challenges. Proficient in the data lifecycle, from data collection, processing, analysis, and developing machine learning models for deployment using cloud platforms
+
+ 
+I am passionate about AI, Data Science, Data Analytics, and Machine Learning. I’m currently learning PyTorch, Data Engineering, and AWS.
 
 
-**>>contact**
+**Reach me here:**
 
 Reach me here - LinkedIn - https://www.linkedin.com/in/harish-chandran-7aa708184/
 
