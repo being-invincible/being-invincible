@@ -9,12 +9,15 @@ I am an attention-to-detail young man pursuing MSc in Data Science with a passio
 I am passionate about AI, Data Science, Data Analytics, and Machine Learning. I’m currently learning PyTorch, Data Engineering, and AWS.
 
 
-**Reach me here:**
+**Contact:**
 
-Reach me here - LinkedIn - https://www.linkedin.com/in/harish-chandran-7aa708184/
+Reach me here:
+
+LinkedIn - https://www.linkedin.com/in/harish-chandran-7aa708184/
 
 
-Find my blogs here -
+Find my blogs here:
+
 Medium - https://medium.com/@the_psy_guy
 
 <!---
